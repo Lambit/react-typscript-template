@@ -12,7 +12,7 @@ Responsive Navbar
 
 AppLayout w/ header, footer & styles
 
-Custome theme
+Custom theme
 
 extra colors & responsive 
 breakpoints handy.
