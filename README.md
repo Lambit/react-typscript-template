@@ -1,6 +1,6 @@
 # Quick Template for React Typscript App
 
-This project is just a boiler plate for a React Typscript app. Its great to have on hand If you wand to test out your backend.
+This project is just a boiler plate for a React Typscript app. Its great to have on hand If you want to test out your backend.
 
 React Router v6
 
